@@ -1,7 +1,7 @@
 {
   "name": "renovate-repro",
   "dependencies": {
-    "lodash": "4.16.0"
+    "lodash": "4.17.21"
   },
   "dependenciesMeta": {
     "lodash@4.16.0": {

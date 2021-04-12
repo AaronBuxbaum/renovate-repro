@@ -37,16 +37,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {
           "packageLocation": "./",
           "packageDependencies": [
-            ["lodash", "npm:4.16.0"]
+            ["lodash", "npm:4.17.21"]
           ],
           "linkType": "SOFT",
         }]
       ]],
       ["lodash", [
-        ["npm:4.16.0", {
-          "packageLocation": "./.yarn/unplugged/lodash-npm-4.16.0-63abe90291/node_modules/lodash/",
+        ["npm:4.17.21", {
+          "packageLocation": "./.yarn/cache/lodash-npm-4.17.21-6382451519-4983720b9a.zip/node_modules/lodash/",
           "packageDependencies": [
-            ["lodash", "npm:4.16.0"]
+            ["lodash", "npm:4.17.21"]
           ],
           "linkType": "HARD",
         }]
@@ -56,7 +56,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["renovate-repro", "workspace:."],
-            ["lodash", "npm:4.16.0"]
+            ["lodash", "npm:4.17.21"]
           ],
           "linkType": "SOFT",
         }]
